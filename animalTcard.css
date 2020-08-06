@@ -6,6 +6,7 @@
 /* style the containers(divs) first mostly using Flexbox model*/
 #img-container i{
     position: absolute;
+    left:10px;
 }
 
 #img-container{
