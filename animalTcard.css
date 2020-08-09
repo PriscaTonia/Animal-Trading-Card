@@ -61,6 +61,7 @@ body{
     align-items: center;
     justify-content: center;
     justify-items: center;
+   
 }
 main{
     
@@ -69,7 +70,7 @@ main{
     background-color: /*rgb(3, 44, 46);*/white;
     box-shadow: 5px 5px 5px 5px #9c9a9a;
     border: 1px solid black;
-    border-radius: 8px ;
+    margin-top: 10px;
     color: rgb(10, 10, 10);
     
 }
